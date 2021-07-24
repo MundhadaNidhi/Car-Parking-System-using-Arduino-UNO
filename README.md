@@ -1,1 +1,2 @@
 # Car-Parking-System-using-Arduino-UNO
+Circuit and code to let the vehicle driver know the occupancy in a parking slot and the vacancy in the parking area. Arduino is the major component used in this project. Other components used are Infrared sensors, Servo motor, some resistors. The servo motor is used to control the movement of barrier so as to close or open the entry for a vehicle to enter or exit.
